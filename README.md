@@ -29,7 +29,7 @@ Purpose: The application allows individuals to keep track of score(s) while play
 - Allow users to edit team names
 
 # Contributors
-- https://github.com/chris-calhoun
+- [Chris Calhoun](https://github.com/chris-calhoun)
 - https://github.com/wmmcinturff
 - https://github.com/smudick
 - https://github.com/wppattonjr
